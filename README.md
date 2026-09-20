@@ -1,4 +1,4 @@
-XAI Playground
+**XAI Playground**
 
 A collection of experiments, implementations, and experiments with Explainable AI (XAI) methods for computer vision.
 
@@ -6,7 +6,7 @@ This repository is a personal research playground for testing different explanat
 
 The goal is not to build a single XAI framework, but to keep a reproducible record of the methods and pipelines I experiment with.
 
-What is explored here?
+**What is explored here?**
 
 The repository contains experiments with methods such as:
 
